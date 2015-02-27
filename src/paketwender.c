@@ -1435,7 +1435,7 @@ int main(int argc, char *argv[])
     printf("PWENDEANLAGE V1.00\n");
     printf("Steuerung des Fischertechnik-Modells ->Paketwendeanlage<-\n");
     printf("Analyse einer Paketsendung (Erkennung der Anschriftsseite)\n\n");
-    printf("Copyright 1988-2015 Rolf Hemmerling\n");
+    printf("Copyright 1999-2015 Rolf Hemmerling\n");
     printf("Licensed under the Apache License, Version 2.0\n");
   }
 #endif
